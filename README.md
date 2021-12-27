@@ -15,7 +15,7 @@ Aplicación construida con [react](https://es.reactjs.org/) que permite obtener 
 - Clonar este repositorio
 
 ```sh
-git clone https://github.com/MarlonPerez-01/buscador-gifs.git
+git clone https://github.com/MarlonPerez-01/conversor-criptomonedas.git
 ```
 
 - Navegar al directorio del proyecto
